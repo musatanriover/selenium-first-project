@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "w8opE7aCi80=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Musa\\Documents\\Software Test\\MyFirstApp\\MyFirstApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Musa\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512",
+    "C:\\Users\\Musa\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
+    "C:\\Users\\Musa\\.nuget\\packages\\selenium.webdriver\\4.27.0\\selenium.webdriver.4.27.0.nupkg.sha512",
+    "C:\\Users\\Musa\\.nuget\\packages\\selenium.webdriver.chromedriver\\132.0.6834.8300\\selenium.webdriver.chromedriver.132.0.6834.8300.nupkg.sha512"
+  ],
+  "logs": []
+}
