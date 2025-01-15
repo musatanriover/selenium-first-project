@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Musa\\Documents\\Software Test\\MyFirstApp\\MyFirstApp.csproj": {}
+    "C:\\Users\\Musa\\Documents\\Software Test\\selenium-first-project\\MyFirstApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Musa\\Documents\\Software Test\\MyFirstApp\\MyFirstApp.csproj": {
+    "C:\\Users\\Musa\\Documents\\Software Test\\selenium-first-project\\MyFirstApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Musa\\Documents\\Software Test\\MyFirstApp\\MyFirstApp.csproj",
+        "projectUniqueName": "C:\\Users\\Musa\\Documents\\Software Test\\selenium-first-project\\MyFirstApp.csproj",
         "projectName": "MyFirstApp",
-        "projectPath": "C:\\Users\\Musa\\Documents\\Software Test\\MyFirstApp\\MyFirstApp.csproj",
+        "projectPath": "C:\\Users\\Musa\\Documents\\Software Test\\selenium-first-project\\MyFirstApp.csproj",
         "packagesPath": "C:\\Users\\Musa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Musa\\Documents\\Software Test\\MyFirstApp\\obj\\",
+        "outputPath": "C:\\Users\\Musa\\Documents\\Software Test\\selenium-first-project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Musa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -43,8 +43,8 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "NUnit": {
               "target": "Package",
@@ -74,12 +74,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,13 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "w8opE7aCi80=",
+  "dgSpecHash": "v3ObIXPwezQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Musa\\Documents\\Software Test\\MyFirstApp\\MyFirstApp.csproj",
+  "projectFilePath": "C:\\Users\\Musa\\Documents\\Software Test\\selenium-first-project\\MyFirstApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Musa\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512",
     "C:\\Users\\Musa\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
     "C:\\Users\\Musa\\.nuget\\packages\\selenium.webdriver\\4.27.0\\selenium.webdriver.4.27.0.nupkg.sha512",
-    "C:\\Users\\Musa\\.nuget\\packages\\selenium.webdriver.chromedriver\\132.0.6834.8300\\selenium.webdriver.chromedriver.132.0.6834.8300.nupkg.sha512"
+    "C:\\Users\\Musa\\.nuget\\packages\\selenium.webdriver.chromedriver\\132.0.6834.8300\\selenium.webdriver.chromedriver.132.0.6834.8300.nupkg.sha512",
+    "C:\\Users\\Musa\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Musa\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
+    "C:\\Users\\Musa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Musa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Musa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Musa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
   ],
   "logs": []
 }
